@@ -26,7 +26,7 @@ function setup() {
   background(100,0,255); 
 
   // mouse movement interaction
-  img = loadImage("Bruins-Habs2.jpeg")
+  img = loadImage("Bruins-Habs2.jpg")
   img2 = loadImage("hockeyimage.png")
 }
 
