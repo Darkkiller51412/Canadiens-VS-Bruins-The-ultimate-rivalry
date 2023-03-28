@@ -27,7 +27,7 @@ function setup() {
 
   // mouse movement interaction
   img = loadImage("Bruins-Habs2.jpeg")
-  img2 = loadImage("hockey image.png")
+  img2 = loadImage("hockeyimage.png")
 }
 
 function draw() {
